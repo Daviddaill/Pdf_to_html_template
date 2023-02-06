@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc Title</title>
+    <style type="text/css">
+         body { background-color: grey; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-print-color-adjust: exact;
+            -webkit-region-break-inside: avoid;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        @media print {
+            table {
+                page-break-after: auto
+            }
+
+            tr {
+                page-break-inside: avoid;
+                page-break-after: auto;
+                width: 100%
+            }
+
+            td {
+                page-break-inside: avoid;
+                page-break-after: auto
+            }
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Bold.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Bold.woff" format('woff');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff" format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff" format('woff');
+            font-weight: normal;
+            font-style: italic;
+            font-family: Arial Narrow, Helvetica, sans-serif;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-BoldItalic.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-BoldItalic.woff" format('woff');
+            font-weight: bold;
+            font-style: italic;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrowBold.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrowBold.woff" format('woff');
+            font-weight: 500;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff" format('woff');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Arial Narrow';
+            src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff2" format('woff2'),
+                "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff" format('woff');
+            font-weight: normal;
+            font-style: italic;
+            font-display: swap;
+        }
+    </style>
+</head>
+<!------------------------------ Doc Title ------------------------------>
+
+<!-- page 1: start -->
+<div
+    style=" box-sizing: border-box; 
+    position: relative; 
+    background-color: white; 
+    display: block; 
+    margin: 0 auto;
+    margin-bottom: 0.5cm; 
+    font-family: Arial Narrow, Helvetica, sans-serif; 
+    padding: 0; 
+    page-break-before: always;
+    height: 29.7cm; 
+    width:21cm; 
+    padding:80px 40px; ">
+
+ <!-- page header:start -->
+    <table style="margin: 0 auto;font-size: 14px; font-weight: 300; line-height: 1.3; ">
+        <tbody style=" text-align: center">
+            <tr>
+                <td>
+                    <h1>title</h1>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- page header:end -->
+
+    <!-- main content:start -->
+    <table style="margin-top: 40px;">
+        <tbody style=" text-align:justify">
+            <tr>
+                <td>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nobis, iusto id laborum voluptas, modi aut laboriosam sint ipsam excepturi, similique laudantium corporis fuga voluptatibus perspiciatis quae explicabo hic perferendis!</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- main content:end -->
+
+    <!-- page footer:start -->
+    <table style="position:absolute;bottom:20px; width: 700px; font-size: 14px">
+        <tbody>
+            <tr>
+                <td style="width:33%">
+                    ref
+                </td>
+                <td style="text-align: center; width: 33%">
+                    1 of 1
+                </td>
+                <td style="text-align: right;width: 33%">
+                    01/01
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- page footer: end -->
+</div>
+<!-- page 1: end -->
+
+</html>
+<!------------------------------ Doc Title: end ------------------------------>
