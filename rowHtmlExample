@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> agent contract cover and transmital </title>
+	<style type="text/css">
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			-webkit-print-color-adjust: exact;
+			-webkit-region-break-inside: avoid;
+		}
+
+		body {
+			margin: 0;
+		}
+
+		@media print {
+			table {
+				page-break-after: auto
+			}
+
+			tr {
+				page-break-inside: avoid;
+				page-break-after: auto;
+				width: 100%
+			}
+
+			td {
+				page-break-inside: avoid;
+				page-break-after: auto
+			}
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Bold.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Bold.woff" format('woff');
+			font-weight: bold;
+			font-style: normal;
+			font-display: swap;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff" format('woff');
+			font-weight: normal;
+			font-style: normal;
+			font-display: swap;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff" format('woff');
+			font-weight: normal;
+			font-style: italic;
+			font-family: Arial Narrow, Helvetica, sans-serif;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-BoldItalic.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-BoldItalic.woff" format('woff');
+			font-weight: bold;
+			font-style: italic;
+			font-display: swap;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrowBold.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrowBold.woff" format('woff');
+			font-weight: 500;
+			font-style: normal;
+			font-display: swap;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow.woff" format('woff');
+			font-weight: normal;
+			font-style: normal;
+			font-display: swap;
+		}
+
+		@font-face {
+			font-family: 'Arial Narrow';
+			src: "[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff2" format('woff2'),
+				"[GENERAL.APP_URL]/pdf/fonts/ArialNarrow-Italic.woff" format('woff');
+			font-weight: normal;
+			font-style: italic;
+			font-display: swap;
+		}
+	</style>
+</head>
+<!------------------------------ agent contract cover and transmital : start ------------------------------>
+
+<body>
+
+	<!-- page 1: start -->
+	<div style="box-sizing: border-box; 
+    position: relative; 
+    background-color: white; 
+    display: block; 
+    margin: 0 auto; 
+    margin-bottom: 0.5cm; 
+    font-family: Arial Narrow, Helvetica, sans-serif;   
+    page-break-before: always;
+    height: 29.7cm; 
+    padding:20px 60px;">
+		<!-- page header:start -->
+		<table style="margin: 0 auto;font-size: 14px; font-weight: 300; line-height: 1.3; width: 100%;">
+			<tbody style=" text-align: left">
+				<tr>
+					<td style="width: 100%; text-align: center;">
+						<img src="./img/royal-neighbors-logo.png" style="width: 700px;">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!-- page header:end -->
+
+		<!-- main content:start -->
+		<table style="width: 100%; margin-top: 10px; font-size: 14px; ">
+			<tbody style=" text-align:justify">
+				<tr>
+					<td>
+						<p style="text-align: center; font-weight: bold; font-size: 18px; margin-bottom: 10px;">
+							AGENT CONTRACT COVER AND TRANSMITTAL
+						</p>
+						<div style="padding: 10px; border: 1px solid #000;">
+							<table style="width: 100%; margin-bottom: 10px;">
+								<tr>
+									<td style="padding: 0; margin: 0; white-space: nowrap; ">
+										IMO Name:
+									</td>
+									<td style="border-bottom: 1px solid #000000; width: 100%;">
+									</td>
+								</tr>
+							</table>
+							<table style="width: 100%; margin-bottom: 10px;">
+								<tr>
+									<td style="padding: 0; margin: 0; white-space: nowrap; ">
+										Region Code:
+									</td>
+									<td style="border-bottom: 1px solid #000000; width: 100%;">
+									</td>
+								</tr>
+							</table>
+							<table style="width: 100%; margin-bottom: 10px;">
+								<tr>
+									<td style="padding: 0; margin: 0; white-space: nowrap; ">
+										IMO contact email:
+									</td>
+									<td style="border-bottom: 1px solid #000000; width: 100%;">
+									</td>
+								</tr>
+							</table>
+							<table style="width: 100%; margin-bottom: 10px;">
+								<tr>
+									<td style="padding: 0; margin: 0; white-space: nowrap; ">
+										Additional contact email:
+									</td>
+									<td style="border-bottom: 1px solid #000000; width: 100%;">
+									</td>
+								</tr>
+							</table>
+						</div>
+						<table style="width: 60%; margin-bottom: 10px; margin-top: 20px;">
+							<tr>
+								<td style="padding: 0; margin: 0; white-space: nowrap; ">
+									Agent Name:
+								</td>
+								<td style="border-bottom: 1px solid #000000; width: 100%;">
+								</td>
+							</tr>
+						</table>
+						<table style="width: 60%; margin-bottom: 10px;">
+							<tr>
+								<td style="padding: 0; margin: 0; white-space: nowrap; ">
+									SSN:
+								</td>
+								<td style="border-bottom: 1px solid #000000; width: 100%;">
+								</td>
+							</tr>
+						</table>
+						<table style="width: 60%; margin-bottom: 10px;">
+							<tr>
+								<td style="padding: 0; margin: 0; white-space: nowrap; ">
+									National Producer Number:
+								</td>
+								<td style="border-bottom: 1px solid #000000; width: 100%;">
+								</td>
+							</tr>
+						</table>
+						<table style="width: 100%; margin-bottom: 10px;">
+							<tr>
+								<td style="padding: 0; margin: 0; white-space: nowrap; ">
+									Company Name:
+								</td>
+								<td style="border-bottom: 1px solid #000000; width: 100%;">
+								</td>
+							</tr>
+						</table>
+						<table style="width: 60%; margin-bottom: 10px;">
+							<tr>
+								<td style="padding: 0; margin: 0; white-space: nowrap; ">
+									Tax ID:
+								</td>
+								<td style="border-bottom: 1px solid #000000; width: 100%;">
+								</td>
+							</tr>
+						</table>
+						<p style="font-weight: bold;">Contract Type:</p>
+						<table style="width: 100%; margin-bottom: 10px;">
+							<tr>
+								<td style="vertical-align: top; width:40px">
+									<img style="margin: 2px;  display: inline-block; width: 14px; height: 14px;"
+										src="./img/checkbox-unchecked.png" alt="unchecked">
+									<img style="margin: 2px;  display: none; width: 14px; height: 14px;"
+										src="./img/checkbox-checked.png" alt="checked">
+								</td>
+								<td style="vertical-align: top;">
+									<p>Licensed Only Agent</p>
+									<table style="width: 100%; border-collapse: collapse;">
+										<tr>
+											<td style="width: 20px;">
+												1.
+											</td>
+											<td>
+												Producer Application - Form 10005-AAA
+											</td>
+										</tr>
+										<tr>
+											<td style="width: 20px;">
+												2.
+											</td>
+											<td>
+												Appointed Agent's Agreement - Form 10007
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<table style="width: 100%; margin-bottom: 10px;">
+							<tr>
+								<td style="vertical-align: top; width:40px">
+									<img style="margin: 2px;  display: inline-block; width: 14px; height: 14px;"
+										src="./img/checkbox-unchecked.png" alt="unchecked">
+									<img style="margin: 2px;  display: none; width: 14px; height: 14px;"
+										src="./img/checkbox-checked.png" alt="checked">
+								</td>
+								<td style="vertical-align: top;">
+									<p>Commissioned Agent</p>
+									<table style="width: 100%; border-collapse: collapse;">
+										<tr>
+											<td style="width: 20px;">
+												1.
+											</td>
+											<td>
+												Producer Application - Form 10005
+											</td>
+										</tr>
+										<tr>
+											<td style=" width: 20px;">
+												2.
+											</td>
+											<td>
+												Contract to Represent w/Authority to Recruit - Form 10009
+											</td>
+										</tr>
+										<tr>
+											<td style=" width: 20px;">
+												3.
+											</td>
+											<td>
+												<table style="width: 100%; margin: 10px 0;">
+													<tr>
+														<td style="white-space: nowrap;">Comission Level</td>
+														<td style="border-bottom: 1px solid #000; width: 100%;"></td>
+														<td style="white-space: nowrap;">(commission addendum required)
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr style="vertical-align: top;">
+											<td style=" width: 20px; padding-top: 10px;">
+												4.
+											</td>
+											<td style="padding-top: 10px;">
+												<p>Advance Commissions Requested:</p>
+												<div>
+													<img style="margin: 2px;  display: inline-block; width: 14px; height: 14px;"
+														src="./img/checkbox-unchecked.png" alt="unchecked">
+													<img style="margin: 2px;  display: none; width: 14px; height: 14px;"
+														src="./img/checkbox-checked.png" alt="checked">
+													<p style="display: inline; vertical-align: top;">
+														YES
+														<span style="font-style: italic;">
+															(Annualized Financial Agreement required)
+														</span>
+													</p>
+												</div>
+												<div>
+													<img style="margin: 2px;  display: inline-block; width: 14px; height: 14px;"
+														src="./img/checkbox-unchecked.png" alt="unchecked">
+													<img style="margin: 2px;  display: none; width: 14px; height: 14px;"
+														src="./img/checkbox-checked.png" alt="checked">
+													<p style="display: inline; vertical-align: top;">
+														NO
+													</p>
+												</div>
+											</td>
+										</tr>
+										<tr style="vertical-align: top;">
+											<td style="width: 20px; padding-top: 10px;">
+												5.
+											</td>
+											<td style="padding-top: 10px;">
+												<p>Direct Deposit Requested:</p>
+												<div>
+													<img
+														style="margin: 2px;vertical-align: middle;  display: inline-block; width: 14px; height: 14px;"
+														src="./img/checkbox-unchecked.png" alt="unchecked">
+													<img
+														style="margin: 2px; vertical-align: middle; display: none; width: 14px; height: 14px;"
+														src="./img/checkbox-checked.png" alt="checked">
+													<p style="display: inline; vertical-align: middle;">
+														YES
+														<span style="font-style: italic;">
+															(void check or bank letter required)
+														</span>
+													</p>
+												</div>
+												<div>
+													<img
+														style="margin: 2px;vertical-align: middle;  display: inline-block; width: 14px; height: 14px;"
+														src="./img/checkbox-unchecked.png" alt="unchecked">
+													<img
+														style="margin: 2px;vertical-align: middle;  display: none; width: 14px; height: 14px;"
+														src="./img/checkbox-checked.png" alt="checked">
+													<p style="display: inline; vertical-align: middle;">
+														NO
+													</p>
+												</div>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<table style="width: 100%; border: 1px solid #000; border-collapse:collapse">
+							<tr style="vertical-align: top;">
+								<td style="width: 30%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+									Hierarchy Level
+								</td>
+								<td style="width: 50%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+									Name
+								</td>
+								<td style="width: 20%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+									Agent#
+								</td>
+							</tr>
+							<tr style="vertical-align: top;">
+								<td style="width: 30%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+									IMO
+								</td>
+								<td style="width: 50%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+
+								</td>
+								<td style="width: 20%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+
+								</td>
+							</tr>
+							<tr style="vertical-align: top;">
+								<td style="width: 30%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+									Direct Upline
+								</td>
+								<td style="width: 50%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+
+								</td>
+								<td style="width: 20%; border: 1px solid #000; height: 40px; padding: 2px 5px;">
+
+								</td>
+							</tr>
+						</table>
+						<p style="margin-top: 20px;">
+							EMAIL CONTRACTING DOCUMENTS TO
+							<a href="mailto:agentcontract@royalneighbors.org">agentcontract@royalneighbors.org</a>
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!-- main content:end -->
+
+		<!-- page footer:start -->
+		<table style="position:absolute;bottom:10px; left:0px; width: 100%; font-size: 13px">
+			<tbody>
+				<tr>
+					<td style="width: 33%; padding-left: 30px; text-align: left;">
+						<img src="./img/royal-neighbors-logo2.png" style="width: 200px; height: 80px;">
+					</td>
+					<td style=" text-align: right; padding-right: 40px;" colspan="2">
+						230 16th Street &bull; Rock Island, Illinois 61201 &bull; Phone: (309) 788-4561 &bull;
+						Toll-free: (800) 627-4762 <br>
+						E-mail: contact@royalneighbors.org &bull; Web site: royalneighbors.org
+					</td>
+				</tr>
+				<tr>
+					<td style="width:33%; padding-left: 40px;">
+						Form 2219; Rev. 12-2020
+					</td>
+					<td style="text-align: center; width: 33%">
+
+					</td>
+					<td style="text-align: right;width: 33%; padding-right: 40px;">
+						Page 1 of 1
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!-- page footer: end -->
+	</div>
+	<!-- page 1: end -->
+
+</body>
+
+</html>
+<!------------------------------agent contract cover and transmital : end------------------------------>
